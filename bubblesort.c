@@ -1,6 +1,6 @@
 #include <stdio.h>
 void bubblesort1A(int A[], int n);
-//void swap(int *x, int *y);
+void swap(int *x, int *y);
 
 int main()
 {
